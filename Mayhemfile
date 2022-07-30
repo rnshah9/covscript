@@ -2,4 +2,4 @@ project: covscript
 target: cs
 
 cmds:
-  - cmd: /repo/build/cs @@
+  - cmd: /cs @@
